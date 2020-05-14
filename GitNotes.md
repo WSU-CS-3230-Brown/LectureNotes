@@ -26,7 +26,7 @@ Install for Windows https://gitforwindows.org
 
 * Set github user information
   1. Open cmd prompt
-  2. `git config --global user.email "your_email@example.com"`
+    >`git config --global user.email "your_email@example.com"`
 
 Install for Mac Using Homebrew https://brew.sh
   1. open terminal (cmd + space and type 'terminal')
@@ -34,7 +34,8 @@ Install for Mac Using Homebrew https://brew.sh
       >\> `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"`
   3. install git using brew 
       >\> `brew install git`
-  4. set github user information `git config --global user.email "your_email@example.com"`
+  4. set github user information 
+      >\> `git config --global user.email "your_email@example.com"`
 
 ## Basic Git Workflow ##
 
